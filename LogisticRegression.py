@@ -9,7 +9,6 @@ from sklearn.model_selection import train_test_split
 data = datasets.load_breast_cancer()
 X, Y = data.data, data.target
 
-# Skip the view operation for Y
 
 # scaling:
 scaler = StandardScaler()
