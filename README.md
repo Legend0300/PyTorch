@@ -13,13 +13,13 @@ Dive into advanced deep learning topics, leveraging the power of PyTorch to buil
 ## Repository Structure:
 
 - **GradientDescent.py**
-  - Optimized implementation of gradient descent. Check out the latest changes made yesterday for improved performance.
+  - Optimized implementation of gradient descent. Check out the latest changes for improved performance.
 
 - **LinearRegression.py**
-  - Learn Linear Regression with PyTorch! Discover the latest updates made just 5 hours ago to enhance your understanding.
+  - Learn Linear Regression with PyTorch! Discover the latest updates made to enhance your understanding.
 
 - **LogisticRegression.py**
-  - Stay up-to-date with the latest advancements in Logistic Regression. The file has been recently updated 2 hours ago.
+  - Stay up-to-date with the latest advancements in Logistic Regression. 
 
 ## Getting Started:
 
