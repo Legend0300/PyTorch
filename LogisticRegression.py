@@ -9,7 +9,6 @@ from sklearn.model_selection import train_test_split
 data = datasets.load_breast_cancer()
 X, Y = data.data, data.target
 
-# Skip the view operation for Y
 
 # scaling:
 scaler = StandardScaler()
@@ -33,7 +32,7 @@ class LogisticRegression(nn.Module):
         super(LogisticRegression, self).__init__()
         self.linear = nn.Linear(input_size, output_size)
 
-    def forward(self, X):  # Corrected the forward method
+    def forward(self, X):
         value = torch.sigmoid(self.linear(X))
         return value
 
