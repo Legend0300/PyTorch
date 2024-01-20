@@ -13,28 +13,26 @@ Dive into advanced deep learning topics, harnessing the power of PyTorch to cons
 ## Repository Structure:
 
 - **GradientDescent.py**
-  - Optimized implementation of gradient descent. Stay updated with the latest changes for improved performance.
+  - Optimized implementation of gradient descent..
 
 - **LinearRegression.py**
-  - Master Linear Regression with PyTorch! Explore the latest updates to enhance your comprehension.
+  - Master Linear Regression with PyTorch!
 
 - **LogisticRegression.py**
-  - Stay current with the latest advancements in Logistic Regression.
 
 - **DataLoading.py**
-  - Completed data loading class! Check out the latest updates.
+  - Completed data loading class.
 
 - **DataTransform.py**
-  - Added transformations! Explore the latest enhancements to data transformation.
+  - Added transformations! .
 
 - **House Price Dataset.csv**
-  - Completed data loading class! Stay updated with the latest changes.
+  - Completed data loading class!
 
 - **Housing.csv**
-  - Completed data loading class! Explore the latest updates.
+  - Completed data loading class!
 
 - **Used Car Dataset.csv**
-  - [Add description if needed]
 
 ## Getting Started:
 
